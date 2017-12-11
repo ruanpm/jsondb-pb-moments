@@ -1,0 +1,272 @@
+[{
+	"name":"Alexandre Fetter",
+	"picture": "",
+	"instagram": "",
+	"characters": "Joãozinho, Professora, Josias",
+	"audios": [{
+				"title": "Vai no Passeio Fetter?",
+				"character": "Alexandre Fetter",
+				"src": "https://instaud.io/_/1wQB.mp3",
+				"preload": "metadata"
+			}],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+},
+{
+	"name":"Arthur Gubbert",
+	"picture": "",
+	"instagram": "",
+	"characters": "Teco, Rodrigo Paulista, Raimundo, Maiquinhos",
+	"audios": [{
+				"title": "Nem me viu",
+				"character": "Teco",
+				"src": "https://instaud.io/_/private/d7d88c89caa85d0531ebf61265fdd900368e734b.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Só Download, Vamo dá um Ergues",
+				"character": "Teco",
+				"src": "https://instaud.io/private/5e36305717f23af6d5b603a571a93d1f28ffeae8/download",
+				"preload": "metadata"
+			},
+			{
+				"title": "Porquê o Steve Wonder Balança a Cabeça",
+				"character": "Teco",
+				"src": "https://instaud.io/_/private/c7a615a1abb15f246342d3091a62fbf3a6772910.mp3",
+				"preload": "metadata"
+			}],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+},
+{
+	"name":"Cosma",
+	"picture": "",
+	"instagram": "",
+	"characters": "Nenhum",
+	"audios": [{
+				"title": "História da Cueca",
+				"character": "Cosma",
+				"src": "https://instaud.io/_/private/08eae030d4bfefcd3a3170772ca5a7670f5c7d25.mp3",
+				"preload": "metadata"
+			}],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+},
+{
+	"name":"Duda Garbi",
+	"picture": "",
+	"instagram": "",
+	"characters": "Santaninha, Passarinhão",
+	"audios": [],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+},
+{
+	"name":"Luciano Potter",
+	"picture": "",
+	"instagram": "",
+	"characters": "Malessandro",
+	"audios": [{
+				"title": "Sogra é como Cerveja",
+				"character": "Luciano Potter",
+				"src": "https://instaud.io/_/private/4fda7e2be316e3f13ed9be6a222061e3fb61757e.mp3",
+				"preload": "metadata"
+			}],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+},
+{
+	"name":"Marcos Piangers",
+	"picture": "",
+	"instagram": "",
+	"characters": "Almir, Neila, Marcelo Resende",
+	"audios": [{
+				"title": "Piada - Filho Pergunta pra Mãe...",
+				"character": "Almir",
+				"src": "https://instaud.io/_/private/31e7de631ca8108fcb572d97a3ba79cba2a75dfa.mp3",
+				"preload": "metadata"
+			}],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+},
+{
+	"name":"Neto Fagundes",
+	"picture": "",
+	"instagram": "",
+	"characters": "Nego Véio",
+	"audios": [],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+},
+{
+	"name":"Pedro Smaniotto",
+	"picture": "",
+	"instagram": "",
+	"characters": "Alcemar, Chefe, Basílio, Nico, Mina do Jiujitsu",
+	"audios": [
+			{
+				"title": "Tu Anda de Ssangyong oh Merda",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/610787d985f5998e18c5387746d2345ae34e32fd.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Para de Andar de Fusca",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/dad4cb20bcfd5cb3bd93053474ebe3e3747de947.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Mania de Cabine Dupla",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/eef3948a801497827017619fe076e8298c82b826.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Taca Fogo no Celta",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/096c513ebe57348d6e355f37c3befd72c6419f56.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Tu Anda de Peugeot oh Merda",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/69ffaace2cb4c8b35b547e778bbb15b5ad6984ae.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Tu Anda de Fiat oh Bosta",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/fe074482919feef93d5bb3b6f7d1cf602745cf17.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Autinho Pica Fria",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/e63a7f644ba2e54c52665dcdc1bebb3a5b40395c.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Veloster Merda de Carro",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/8370bb9207fc63b83a72ab90c15c614d88cdd082.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "História Mina do Jiujitsu",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/458fad9503359d057924166969123a0bf67dc358.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Agora eu vo te Apaga",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/dd9feea4eb2c2adbaaaabd2ac482c640caedfce3.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Ai é Isso que eu Quero",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/f346efe62fbc15a1b9881555e6945d2628a2bcb2.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Trauma de Bentivi",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/1d5c87eda217975ec679b67d8543e66cb56db0fd.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Enfia o Minimalismo no Rabo",
+				"character": "Alcemar",
+				"src": "https://instaud.io/_/private/0e6156f8cfd45490bcf47b9ab74106b5f0c791ab.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Piada Anos 80 - Bichinha",
+				"character": "Pedro Smaniotto",
+				"src": "https://instaud.io/_/private/3422848367b3d3a36766a29bbc06d93970c05d5b.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Piada Anos 80 - Vovó e Netinhos",
+				"character": "Pedro Smaniotto",
+				"src": "https://instaud.io/_/private/8424c7180a404792b4e9d8b383b5443d959bc75f.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Piada - Me Caguei",
+				"character": "Pedro Smaniotto",
+				"src": "https://instaud.io/_/private/745f8e95f3c9030ee5057e8d81b78d7c85010e21.mp3",
+				"preload": "metadata"
+			},
+			{
+				"title": "Piada - Pizzaria",
+				"character": "Pedro Smaniotto",
+				"src": "https://instaud.io/_/private/47bd16946cdb2c99288c66d1ba0aa8304b1eecf9.mp3",
+				"preload": "metadata"
+			}
+	],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+},
+{
+	"name":"Portuga",
+	"picture": "",
+	"instagram": "",
+	"characters": "Nenhum",
+	"audios":[],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+},
+{
+	"name":"Rafinha",
+	"picture": "",
+	"instagram": "",
+	"characters": "Dj Palitiol, Dj Dedera",
+	"audios": [],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+},
+{
+	"name":"Rodaika",
+	"picture": "",
+	"instagram": "",
+	"characters": "Nenhum",
+	"audios": [],
+	"player": {
+			"hidePlay": false,
+			"hideStop": true,
+			"hidePause": true
+	}
+}]
