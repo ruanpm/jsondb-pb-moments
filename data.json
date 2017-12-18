@@ -48,7 +48,7 @@
 	"name":"Cosma",
 	"picture": "",
 	"instagram": "",
-	"characters": "Nenhum",
+	"characters": "",
 	"audios": [{
 				"title": "História da Cueca",
 				"character": "Cosma",
@@ -238,7 +238,7 @@
 	"name":"Portuga",
 	"picture": "",
 	"instagram": "",
-	"characters": "Nenhum",
+	"characters": "",
 	"audios":[],
 	"player": {
 			"hidePlay": false,
@@ -262,7 +262,7 @@
 	"name":"Rodaika",
 	"picture": "",
 	"instagram": "",
-	"characters": "Nenhum",
+	"characters": "",
 	"audios": [],
 	"player": {
 			"hidePlay": false,
